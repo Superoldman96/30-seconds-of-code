@@ -3,7 +3,7 @@ title: What I learned from vibe coding a small web project with GitHub Copilot a
 shortTitle: Vibe coding learnings
 tags: [webdev,programming]
 cover: interior-19
-excerpt: A short summary of your story up to 140 characters long.
+excerpt: A short experiment to see what vibe coding feels like and how far AI can take a project without writing any code myself.
 listed: true
 dateModified: 2025-10-24
 ---
